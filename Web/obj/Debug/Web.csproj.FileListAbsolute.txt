@@ -1,0 +1,210 @@
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Web.dll.config
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Web.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Web.pdb
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csc.exe
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csc.exe.config
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csc.rsp
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csi.exe
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csi.exe.config
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\csi.rsp
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.AppContext.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Console.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.IO.Compression.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Net.Http.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Net.Sockets.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.ValueTuple.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Xml.XPath.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\vbc.exe
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\vbc.exe.config
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\vbc.rsp
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\VBCSCompiler.exe
+D:\MVC LAyers\Demo\Supermarket\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Antlr3.Runtime.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\BL.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\DAL.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Newtonsoft.Json.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Helpers.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Mvc.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Optimization.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Razor.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.Deployment.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.Razor.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\WebGrease.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\AutoMapper.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\BL.pdb
+D:\MVC LAyers\Demo\Supermarket\Web\bin\DAL.pdb
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Helpers.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Mvc.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Optimization.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.Razor.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.Deployment.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\System.Web.WebPages.Razor.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Newtonsoft.Json.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Antlr3.Runtime.pdb
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC LAyers\Demo\Supermarket\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\MVC LAyers\Demo\Supermarket\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\MVC LAyers\Demo\Supermarket\Web\obj\Debug\Web.csproj.CopyComplete
+D:\MVC LAyers\Demo\Supermarket\Web\obj\Debug\Web.dll
+D:\MVC LAyers\Demo\Supermarket\Web\obj\Debug\Web.pdb
+D:\MVC LAyers\Demo\Supermarket\Web\bin\EntityFramework.SqlServer.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Owin.dll
+D:\MVC LAyers\Demo\Supermarket\Web\bin\EntityFramework.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\EntityFramework.SqlServer.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC LAyers\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Web.dll.config
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Web.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Web.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csc.exe
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csc.exe.config
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csc.rsp
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csi.exe
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csi.exe.config
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\csi.rsp
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.AppContext.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Console.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Net.Http.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\vbc.exe
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\vbc.exe.config
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\vbc.rsp
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Antlr3.Runtime.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\BL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\DAL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Newtonsoft.Json.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Owin.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Helpers.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Mvc.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Optimization.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Razor.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\WebGrease.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\AutoMapper.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\BL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\DAL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\EntityFramework.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Helpers.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Mvc.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Optimization.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.Razor.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Newtonsoft.Json.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Antlr3.Runtime.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\obj\Debug\Web.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\Web\obj\Debug\Web.pdb

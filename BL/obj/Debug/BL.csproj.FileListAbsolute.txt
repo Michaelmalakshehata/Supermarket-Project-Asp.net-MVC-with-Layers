@@ -1,0 +1,28 @@
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\BL.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\BL.pdb
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\AutoMapper.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\DAL.dll
+D:\MVC LAyers\Demo\Supermarket\BL\bin\Debug\DAL.pdb
+D:\MVC LAyers\Demo\Supermarket\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\MVC LAyers\Demo\Supermarket\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\MVC LAyers\Demo\Supermarket\BL\obj\Debug\BL.csproj.CopyComplete
+D:\MVC LAyers\Demo\Supermarket\BL\obj\Debug\BL.dll
+D:\MVC LAyers\Demo\Supermarket\BL\obj\Debug\BL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\BL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\BL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\AutoMapper.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\DAL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\bin\Debug\DAL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\obj\Debug\BL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\BL\obj\Debug\BL.pdb

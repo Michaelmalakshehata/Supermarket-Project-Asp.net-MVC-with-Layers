@@ -1,0 +1,26 @@
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\DAL.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\DAL.pdb
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.dll
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.pdb
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.Migrations.step1.resources
+D:\MVC LAyers\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\DAL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\DAL.pdb
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.Migrations.step1.resources
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.dll
+C:\Users\NoteBook\OneDrive\Desktop\Demo\Demo\Supermarket\DAL\obj\Debug\DAL.pdb
